@@ -48,7 +48,7 @@ body {
 	min-height: 100vh;
 	margin: 0;
 	font-family: Arial, sans-serif;
-	background-color: #f5f5f5;
+	background-color: #F5F1E3;
 }
 
 #backgroundBody {
@@ -56,12 +56,12 @@ body {
 	background-attachment: fixed;
 	background-position: center center;
 	background-size: cover;
-	background-color: #083669;
+	background-color: #247BA0;
 }
 
 @media (max-width: 600px) {
 	body {
-		background-color: #083669;
+		background-color: #247BA0;
 	}
 }
 
@@ -73,7 +73,7 @@ body {
 	text-decoration: none;
 	margin: 5px 2px;
 	border-radius: 50%;
-	background: #083669;
+	background: #247BA0;
 	color: #FFFFFF;
 }
 
