@@ -56,12 +56,12 @@ body {
 	background-attachment: fixed;
 	background-position: center center;
 	background-size: cover;
-	background-color: #3A606E;
+	background-color: #003153;
 }
 
 @media (max-width: 600px) {
 	body {
-		background-color: #3A606E;
+		background-color: #003153;
 	}
 }
 
@@ -73,7 +73,7 @@ body {
 	text-decoration: none;
 	margin: 5px 2px;
 	border-radius: 50%;
-	background: #3A606E;
+	background: #003153;
 	color: #FFFFFF;
 }
 
